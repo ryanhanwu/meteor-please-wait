@@ -1,0 +1,3 @@
+[submodule "lib/please-wait.js"]
+	path = lib/please-wait.js
+	url = https://github.com/Pathgather/please-wait.git
