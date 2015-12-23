@@ -1,3 +1,7 @@
+
+[![Meteor Icon](http://icon.meteor.com/package/ryanwu:please-wait)](https://atmospherejs.com/ryanwu/please-wait)
+
+
 # meteor-please-wait
 
 ## About
